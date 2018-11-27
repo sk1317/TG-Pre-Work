@@ -1,0 +1,16 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+.title {
+  color: teal;
+}
+/*Linking to HTML page title selector*/

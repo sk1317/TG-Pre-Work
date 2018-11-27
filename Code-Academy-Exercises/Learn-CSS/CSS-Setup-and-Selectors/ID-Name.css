@@ -1,0 +1,25 @@
+p {
+  font-family: Arial;
+}
+
+h1 {
+  color: maroon;
+}
+
+h2.destination {
+  font-family: cursive;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+#article-title{
+  font-family: cursive;
+  text-transform: capitalize;
+}
+/*ID tag used to change both font-family and capitalize it.*/
